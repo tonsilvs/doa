@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.doacaobrasil.online	TRUE	/	FALSE	1999999999	__goc_session__	lfsnlhoglfyizuurzcbevkvojttsrmad
+www.doacaobrasil.online	TRUE	/	FALSE	1999999999	PHPSESSID	n3di0f9cniibdr86e8u7i97jt7
+www.doacaobrasil.online	TRUE	/	FALSE	1999999999	tracking	%7B%22utm_source%22%3A%22fb%22%2C%22utm_medium%22%3A%22Facebook_Mobile_Feed%22%2C%22utm_campaign%22%3A%22120201536025590717%22%2C%22utm_content%22%3A%22120201536087480717%22%7D
+e692dde2776249f6.cdn.gocache.net	TRUE	/	FALSE	1999999999	__goc_session__	rwagaywohjejxjtmhluuhumawefjnntv
+
